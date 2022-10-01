@@ -1,0 +1,7 @@
+System admin team first example
+$ git init 
+$ git add . 
+$ git status 
+$ git commit -m "initial commit"
+$ git remote add origin "remote_repository_link.git"
+$ git push -u origin master
